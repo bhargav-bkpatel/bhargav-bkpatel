@@ -20,7 +20,7 @@ My first priority to provide a 100% satisfaction to my client and good quality w
 → Continued support after the delivery of the final product
 → 100% Satisfaction guaranteed
 
-Love to work on <img src="https://img.shields.io/badge/jamstack?style=flat&logo=jamstack&logoColor=pink" /> JAMstack 🔥
+Love to work on JAMstack 🔥
 
 ### 🛠 &nbsp;Tech Stack
 
