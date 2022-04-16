@@ -6,7 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; 👋🏼 I am passionate Full stack developer with expertise in Jamstack | Gatsby | NextJS | \
+👋🏼 &nbsp; I am passionate Full stack developer with expertise in Jamstack | Gatsby | NextJS | \
 💻 &nbsp;NetlifyCMS | Headless CMS | Frontity | Nuxt | React-native | ReactJS | Graphql | Gulp | Tailwind |\
 🎓&nbsp;Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | and any open source projects.\
 🌱 &nbsp;With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an\
