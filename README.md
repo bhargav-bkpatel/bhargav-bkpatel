@@ -10,7 +10,7 @@
 💻 &nbsp;NetlifyCMS | Headless CMS | Frontity | Nuxt | React-native | ReactJS | Graphql | Gulp | Tailwind |\
 🎓&nbsp;Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | and any open source projects.\
 🌱 &nbsp;With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an\
-✍️ &nbsp;opportunity to help the developer community with articles and tips on honing the craft.\
+✍️ &nbsp;opportunity to help the developer community with articles and tips on honing the craft.
 
 
 ### 🛠 &nbsp;Tech Stack
