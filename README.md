@@ -36,7 +36,8 @@
 
 
 
-<a href="mailto:bhargav.bkpatel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:bhargav.bkpatel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://calendly.com/bhargav-bkpatel/30min" target="_blank"><img alt="Calendly" src="https://img.shields.io/badge/Calendly-D14836?style=flat&logo=googlecalendar&logoColor=Blue" /></a> &nbsp;
 <!--
 **bhargav-bkpatel/bhargav-bkpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
